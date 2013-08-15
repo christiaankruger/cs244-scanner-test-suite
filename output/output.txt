@@ -1,3 +1,27 @@
+a_quote_too_many.txt
+[91mtestscanner: Line 1: String not closed
+[0m
+empty_strings.txt
+[92mString: ""
+String: ""
+String: ""
+String: ""
+String: ""
+String: ""
+String: ""
+String: ""
+String: ""
+String: ""
+String: ""
+String: ""
+String: ""
+String: ""
+String: ""
+String: ""
+String: ""
+String: ""
+String: ""
+[0m
 special_char_meltdown.txt
 [92m'['
 ']'
